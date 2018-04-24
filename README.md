@@ -1,4 +1,6 @@
 # The Asterisk(R) Open Source PBX
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fasterisk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fasterisk?ref=badge_shield)
+
 ```text
         By Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
         Copyright (C) 2001-2016 Digium, Inc. and other copyright holders.
@@ -267,3 +269,7 @@ Asterisk is a trademark of Digium, Inc.
 [configs]: configs
 [doc]: doc
 [Important Security Considerations]: https://wiki.asterisk.org/wiki/display/AST/Important+Security+Considerations
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwarpunish%2Fasterisk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwarpunish%2Fasterisk?ref=badge_large)
